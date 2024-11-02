@@ -1,5 +1,6 @@
 ---
 title: In Depth: Control - Take 2
+date: 2020-04-30
 ---
 
 ### Basis
