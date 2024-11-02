@@ -1,4 +1,6 @@
-# In Depth: Control - Take 2
+---
+title: In Depth: Control - Take 2
+---
 
 ### Basis
 
