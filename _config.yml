@@ -1,3 +1,5 @@
 theme: minima
 title: 🦀🌲
 author: tiny-crab
+minima:
+  skin: solarized-dark
