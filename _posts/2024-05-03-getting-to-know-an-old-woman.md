@@ -1,6 +1,7 @@
 ---
 title: Getting to know an old woman
 date: 2024-05-03
+tags: personal
 ---
 
 ![nana and me, 2000-something](/assets/pics/2024-05-03/1.webp)

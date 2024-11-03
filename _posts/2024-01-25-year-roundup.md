@@ -1,6 +1,7 @@
 ---
 title: 2023 and 2024
 date: 2024-01-25
+tags: personal
 ---
 
 In the past, I haven’t been much for New Year’s Resolutions. In fact, I’ve been allergic to goals for a long time. There aren’t many things more disappointing than an unmet goal. It’s easy for me to feel like I’ve failed a goal - in fact, any time it isn’t met perfectly it feels like a failure. So, I’ve free-floated without concrete, written-down long term goals for the last several years.

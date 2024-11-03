@@ -1,6 +1,7 @@
 ---
 title: Simplicity
 date: 2023-12-11
+tags: personal
 ---
 
 I watched The Boy and the Heron on Friday. For a while after leaving the theatre, real life had an odd dimension to it. I feel like my brain was straddling the line between reality and fantasy still. People looked odd.

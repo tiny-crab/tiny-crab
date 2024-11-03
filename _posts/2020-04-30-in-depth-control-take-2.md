@@ -1,6 +1,7 @@
 ---
 title: In Depth on 'Control - Take 2'
 date: 2020-04-30
+tags: music
 ---
 
 ### Basis
