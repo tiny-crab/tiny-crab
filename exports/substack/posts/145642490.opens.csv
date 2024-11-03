@@ -1,0 +1,23 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+145642490,2024-06-14T15:51:34.388Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-14T15:51:50.187Z,ashmstarr@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-14T15:57:34.391Z,erinerowand@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T16:04:42.131Z,mbicher2@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T16:55:58.858Z,zachary.jay.crabtree@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T16:56:10.024Z,zachary.jay.crabtree@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T16:58:32.870Z,mbicher2@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T17:28:05.705Z,jordanopre@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-14T19:50:08.518Z,zachary.jay.crabtree@gmail.com,newsletter,everyone,false,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-14T22:58:04.645Z,j.lawrenceolbrych@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-15T00:14:20.464Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-15T04:56:36.412Z,Hello@alexquetzali.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-15T12:53:29.284Z,stancrabby@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-16T03:13:26.590Z,stancrabby@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-16T14:38:15.741Z,ashmstarr@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-20T17:39:53.881Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-20T20:13:29.679Z,trager1993@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+145642490,2024-06-22T20:17:02.811Z,jordanopre@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-23T08:38:16.910Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-06-25T07:40:34.482Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-07-07T02:01:12.532Z,jordanopre@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+145642490,2024-07-12T07:34:14.209Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0

@@ -1,0 +1,11 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+138438184,2023-10-31T04:22:19.945Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-10-31T04:29:09.650Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-10-31T05:01:12.470Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-10-31T06:50:03.558Z,jordanopre@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-10-31T13:21:06.114Z,Hello@alexquetzali.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+138438184,2023-10-31T13:35:47.871Z,Hello@alexquetzali.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+138438184,2023-10-31T17:13:12.603Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-11-02T14:46:21.697Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-11-03T15:28:41.636Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+138438184,2023-11-16T01:43:08.662Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0

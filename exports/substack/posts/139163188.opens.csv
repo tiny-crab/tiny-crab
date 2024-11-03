@@ -1,0 +1,12 @@
+post_id,timestamp,email,post_type,post_audience,active_subscription,country,city,region,device_type,client_os,client_type,user_agent
+139163188,2023-11-26T20:19:30.555Z,Hello@alexquetzali.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+139163188,2023-11-26T21:24:50.604Z,jordanopre@icloud.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-11-26T22:06:45.126Z,ashmstarr@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-11-27T06:16:50.622Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-11-27T17:33:39.965Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-11-27T18:52:58.223Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-11-28T21:40:34.376Z,hello@diningwithcourt.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-12-08T10:15:53.092Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-12-09T16:34:01.197Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-12-11T11:04:48.401Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
+139163188,2023-12-18T10:04:08.233Z,sweetcozydel@gmail.com,newsletter,everyone,true,US,,,,,,Mozilla/5.0
