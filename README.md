@@ -1,7 +1,3 @@
-## Zach Crabtree
-
-Indie game dev and composer.
-
 ## Video Game Development
 I have built 2D games in lots of different genres. I'd like to build more strategy and RPG-like games.
 
