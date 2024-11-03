@@ -3,7 +3,7 @@ title: Getting to know an old woman
 date: 2024-05-03
 ---
 
-![nana and me, 2000-something](/assets/pics/getting-to-know-an-old-woman/1.webp)
+![nana and me, 2000-something](/assets/pics/2024-05-03/1.webp)
 
 My nana, my mom’s mom, has been an old woman since I was born. As far as I can remember she’s had the same hairstyle (curled, poofy, white) and the same wrinkles (thin, all over). Looking back now, I can see a little clearer how young she actually was 27 years ago.
 
@@ -36,4 +36,4 @@ I held onto tea into young adulthood as my primary caffeinated beverage (I didn�
 
 I’m gonna miss you, Nana. But I’m so happy I have all these things to keep you around, in my every day. Love you.
 
-![nana and me, 2023](/assets/pics/getting-to-know-an-old-woman/2.webp)
+![nana and me, 2023](/assets/pics/2024-05-03/2.webp)
