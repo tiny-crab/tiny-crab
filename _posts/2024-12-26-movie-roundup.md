@@ -22,11 +22,21 @@ Since there's so many in each list, we tallied each movie up and are going to hi
 
 I haven’t watched any body horror before, so this was an all new experience. The sound and prop design is gorgeous and horrific, and Demi Moore does an excellent job portraying somebody wracked with wretched self-loathing. The movie moves at a rocketing pace without being overly plot-heavy. It made me feel icky, sad, proud, angry, disgusted.
 
+**Courtney**
+
+I’ve become a fan of Margaret Qualley this year, and I think this movie had a big part in that. Her and Demi Moore’s acting played their parts beautifully and the two of them casted for this felt iconic. I, too, have never seen many body horror films, but it did a great job of wanting to look away and feelings very uncomfortable and disgusted, while also not being able to look away.
+
 ### Anora
 
 **Zach**
 
 Anora wears its three acts on its sleeve, and has an incredible tone shift between each that blends so naturally. The beginning is so fun, lighthearted, youthful - and as the movie goes on, you watch the characters take on a jaded, defeated atmosphere that parallels many of our own painful lessons learned on the way to becoming adults.
+
+One key interest I had in this movie is Mikey Madison. We watched her in Better Things and loved the nuanced relationship she had with her mom played by Pamela Adlon. Mikey gave such a performance in Anora. Her character's arrogance and bravado is undermined through the film, and reminds you over and over that she's just a 23 year old woman thrust into a complicated, messy situation.
+
+**Courtney**
+
+I love Mikey Madison, and this movie made me love her more. She brought so much sass, spunk, and humor to this film. I also can’t stop thinking about the filmography and the style this movie was shot. The shots choice of focus were so thought provoking. But really, the last 5 minutes of the movie did it for me… also can’t stop thinking about that. Makes want to watch the Florida Project, again, that Sean Baker directed.
 
 
 ## The worst movies we saw this year
@@ -37,11 +47,19 @@ Anora wears its three acts on its sleeve, and has an incredible tone shift betwe
 
 I knew that watching an M Night Shyamalan movie is a dicey move, but this was an utter trainwreck that became painful to watch by the end. A bad movie made worse by Shyamalan nepo-babying his daughter into a role of fictional popstar and then somehow the main character in the third act of the film.
 
+**Courtney**
+
+This movie just made me mad. I love scary movies and know its a classic trope to have the killer be soooo close to being caught.. and in some moments, like in Halloween, its pulled off well. But… this just made me mad. It’s like the movie just wanted to keep going and growing worse when it could have ended at least 5 times.. which made the ending fall suuuper flat.
+
 ### Speak No Evil
 
 **Zach**
 
 This movie makes you frustrated at its lead characters for being passive, ignorant pushovers, and then asks you to accept that as the central theme of the movie.
+
+**Courtney**
+
+Just straight humorous (in a bad way) of a thriller… no more notes.
 
 ## Zach's Guilty Pleasure: Alien Romulus
 I watched the original Alien movie a day before seeing this one. I loved some of the elements from the original that were brought back and explored further - like the aliens' sensitivity to temperature, or its full lifecycle. The dread and atmosphere of the first act was so wonderful. The darkness and loneliness in space is palpable in those scenes. I really enjoyed David Jonsson's performance and the character he played.
@@ -50,7 +68,9 @@ That said, there were some frustrating and cheap thrills, scares, and nostalgia-
 
 I'm a sucker for the Alien franchise, so I really enjoyed this despite it not being my proudest recommendation.
 
-## Courtney's Guilty Pleasure: TBD
+## Courtney's Guilty Pleasure: Small Things Like These
+
+This was the first time I’ve been to a movie theater by myself. I went in pretty blind, I didn’t read the book, nor know what it was going to be about. I went for one reason only: Cillian Murphy. It was a good wintery watch, and Cillian did not disappoint. I had never heard of the Magdalene laundries in Ireland, which is a heartbreaking and horroring story of how “sinning” women were abused and confined in these Catholic institutions. Another movie where the last 10% of the movie really made it for me, but the movie overall didn’t wow me.
 
 ## Zach's movie that made him wish he could throw rotten food at the director: Gladiator II
 We watched the original Gladiator a week before this came out. There's so many great moments in the original: A lengthy introduction to Maximus, his strengths and his weaknesses, a camraderie between Maximus and his soldiers that is reflected in his leadership in the pits. None of this exists in Gladiator 2.
@@ -60,6 +80,8 @@ Hanno's introduction is compressed into brevity, basically into oblivion, and th
 That said, Joseph Quinn really puts his all into his role. I was excited with the stop-motion painted quality of the intro, but that's about the most artistically inspired component of this sequel. The first movie may not be a masterpiece, but it’s an excellent film now sullied by an incompetent sequel.
 
 ## Courtney's movie that made her wish she could throw rotten food at the director: It Ends With Us
+
+This movie made me mad, one because of how it was marketed. I had never read the book, so all I picked up for the marking was that it was a perfect ladies night out rom com. Which was the mode I went into seeing it: a fun ladies night out. And two, because there were no trigger warnings. I’m still shook of how that movie has no warning at the beginning or ANYWHERE in its cute little marketing campaign. In the same week, I saw Blink Twice and that movie from right at the beginning had not only a trigger warning, but call lines and websites for help. And Blink Twice was equally as graphic in abuse as It Ends With Us. Sure it had a happy ending.. but the whole thing just made me really anxious and worried for the many underaged girls watching that movie without a parent to debrief the topics in the movie with them afterward. Which.. excuse me.. HOW is that movie only PG-13?! No. Just no.
 
 ## Zach's one pick he can't recommend enough: Janet Planet
 
@@ -75,6 +97,10 @@ Many, if not most, coming-of-age stories feel distant and unrelatable to me, but
 
 ## Courtney's one pick she can't recommend enough: Babes
 
+I was so excited to see this film knowing that the director was Pamela Adlon— my queen, from her series Better Things. I also have become *obsessed* with Ilana Glazer (which, side note: I did start watching Broad City right after watching this movie this past Spring), who also wrote and produced this film. So, with both of my icons together.. they created my favorite movie, not only of this year..but possibly of all time.
+
+I saw this movie in theater twice, and I already could go for watching it again. First was with Zach, and the second was with my good friend who had just given birth a month prior. It was her first moms night out, in fact. Which, if you don’t know the plot of the movie— Babes is about lifelong friends, one who at the start of the movie is giving birth to her second child, and the other who has been single and childless, becomes pregnant with her first. When I saw this movie the first time with Zach, we both were laughing hysterically.
+
 ## Most Positive Movie Watching Moment
 We saw Thelma with most of our family that lives in San Diego this summer. It's rare that we go out with all of them: Courtney's Grandma, Mom, Stepdad, and Zach's Dad.
 
@@ -87,6 +113,8 @@ Watching it with the rest of the family was a special experience, because we all
 It touches on themes of balancing helping others vs giving them independence, being afraid to ask for help when you really need it, and being afraid to let others risk their health and safety in order to accomplish their own goals. It’s hard not to coddle everybody around us, as we want them to be safe and also do what’s best for them.
 
 This movie hit especially hard after saying goodbye for the last time to my Nana this year. The relationship between Thelma and her grandson spoke to some emotional conversations that I had, and also wished I had, with my own nana.
+
+Overall, it felt like this movie came out at just the right time in our lives. Had I seen it last summer, I don't know if it would have struck me in just the same way. I'm so grateful to have seen it and the themes have been deeply imprinted on my mind.
 
 **Courtney**
 
