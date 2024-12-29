@@ -18,6 +18,8 @@ Since there's so many in each list, we're just going to highlight:
 
 ### The Substance
 
+![The Substance](/assets/2024-12-26-movie-roundup/substance.png){: width="250"}
+
 **Zach**
 
 I haven’t watched any body horror before, so this was an all new experience. The sound and prop design is gorgeous and horrific, and Demi Moore does an excellent job portraying somebody wracked with wretched self-loathing. The movie moves at a rocketing pace without being overly plot-heavy. It made me feel icky, sad, proud, angry, disgusted.
@@ -27,6 +29,8 @@ I haven’t watched any body horror before, so this was an all new experience. T
 I’ve become a fan of Margaret Qualley this year, and I think this movie had a big part in that. Her and Demi Moore’s acting played their parts beautifully and the two of them casted for this felt iconic. I, too, have never seen many body horror films, but it did a great job of wanting to look away and feelings very uncomfortable and disgusted, while also not being able to look away.
 
 ### Anora
+
+![Anora](/assets/2024-12-26-movie-roundup/anora.png){: width="250"}
 
 **Zach**
 
