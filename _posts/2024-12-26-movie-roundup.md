@@ -32,7 +32,7 @@ I’ve become a fan of Margaret Qualley this year, and I think this movie had a 
 
 Anora wears its three acts on its sleeve, and has an incredible tone shift between each that blends so naturally. The beginning is so fun, lighthearted, youthful - and as the movie goes on, you watch the characters take on a jaded, defeated atmosphere that parallels many of our own painful lessons learned on the way to becoming adults.
 
-One key interest I had in this movie is Mikey Madison. We watched her in Better Things and loved the nuanced relationship she had with her mom played by Pamela Adlon. Mikey gave such a performance in Anora. Her character's arrogance and bravado is undermined through the film, and reminds you over and over that she's just a 23 year old woman thrust into a complicated, messy situation.
+One key interest I had in this movie is Mikey Madison. We watched her in Better Things and loved how she portrayed nuanced familial relationships. Mikey gave _such_ a performance in Anora. Her character's arrogance and bravado is undermined through the film, and reminds you over and over that she's just a 23 year old woman thrust into a complicated, messy situation.
 
 **Courtney**
 
