@@ -47,6 +47,8 @@ I love Mikey Madison, and this movie made me love her more. She brought so much 
 
 ### Trap
 
+![Trap](/assets/2024-12-26-movie-roundup/trap.png){: width="250"}
+
 **Zach**
 
 I knew that watching an M Night Shyamalan movie is a dicey move, but this was an utter trainwreck that became painful to watch by the end. A bad movie made worse by Shyamalan nepo-babying his daughter into a role of fictional popstar and then somehow the main character in the third act of the film.
@@ -56,6 +58,8 @@ I knew that watching an M Night Shyamalan movie is a dicey move, but this was an
 This movie just made me mad. I love scary movies and know its a classic trope to have the killer be soooo close to being caught.. and in some moments, like in Halloween, its pulled off well. But… this just made me mad. It’s like the movie just wanted to keep going and growing worse when it could have ended at least 5 times.. which made the ending fall suuuper flat.
 
 ### Speak No Evil
+
+![Speak No Evil](/assets/2024-12-26-movie-roundup/speak.png){: width="250"}
 
 **Zach**
 
@@ -68,6 +72,8 @@ Just straight humorous (in a bad way) of a thriller… no more notes.
 ## Our guilty pleasures
 
 ### Zach - Alien Romulus
+![Alien Romulus](/assets/2024-12-26-movie-roundup/alien.png){: width="250"}
+
 I watched the original Alien movie a day before seeing this one. I loved some of the elements from the original that were brought back and explored further - like the aliens' sensitivity to temperature, or its full lifecycle. The dread and atmosphere of the first act was so wonderful. The darkness and loneliness in space is palpable in those scenes. I really enjoyed David Jonsson's performance and the character he played.
 
 That said, there were some frustrating and cheap thrills, scares, and nostalgia-grabs throughout the movie. I don't need any more shitty CGI of dead actors, please. The last act was a tedious, predictable slog.
@@ -75,12 +81,15 @@ That said, there were some frustrating and cheap thrills, scares, and nostalgia-
 I'm a sucker for the Alien franchise, so I really enjoyed this despite it not being my proudest recommendation.
 
 ### Courtney - Small Things Like These
+![Small Things Like These](/assets/2024-12-26-movie-roundup/small.png){: width="250"}
 
 This was the first time I’ve been to a movie theater by myself. I went in pretty blind, I didn’t read the book, nor know what it was going to be about. I went for one reason only: Cillian Murphy. It was a good wintery watch, and Cillian did not disappoint. I had never heard of the Magdalene laundries in Ireland, which is a heartbreaking and horroring story of how “sinning” women were abused and confined in these Catholic institutions. Another movie where the last 10% of the movie really made it for me, but the movie overall didn’t wow me.
 
 ## The movies that made us angry
 
 ### Zach - Gladiator II
+![Gladiator II](/assets/2024-12-26-movie-roundup/gladiator.png){: width="250"}
+
 We watched the original Gladiator a week before this came out. There's so many great moments in the original: A lengthy introduction to Maximus, his strengths and his weaknesses, a camraderie between Maximus and his soldiers that is reflected in his leadership in the pits. None of this exists in Gladiator II.
 
 Hanno's introduction is compressed into brevity, basically into oblivion, and thus builds no sympathy from the audience. Hanno's motivations and key target flips dramatically during the midpoint of the movie, and is completely unearned. The political edge of this movie is dull from overuse. Pedro Pascal and Connie Nielsen are cardboard.
@@ -88,12 +97,14 @@ Hanno's introduction is compressed into brevity, basically into oblivion, and th
 That said, Joseph Quinn really puts his all into his role. I was excited with the stop-motion painted quality of the intro, but that's about the most artistically inspired component of this sequel. The first movie may not be a masterpiece, but it’s an excellent film now sullied by an incompetent sequel.
 
 ### Courtney - It Ends With Us
+![It Ends With Us](/assets/2024-12-26-movie-roundup/ends.png){: width="250"}
 
 This movie made me mad, one because of how it was marketed. I had never read the book, so all I picked up for the marking was that it was a perfect ladies night out rom com. Which was the mode I went into seeing it: a fun ladies night out. And two, because there were no trigger warnings. I’m still shook of how that movie has no warning at the beginning or ANYWHERE in its cute little marketing campaign. In the same week, I saw Blink Twice and that movie from right at the beginning had not only a trigger warning, but call lines and websites for help. And Blink Twice was equally as graphic in abuse as It Ends With Us. Sure it had a happy ending.. but the whole thing just made me really anxious and worried for the many underaged girls watching that movie without a parent to debrief the topics in the movie with them afterward. Which.. excuse me.. HOW is that movie only PG-13?! No. Just no.
 
 ## Our individual top picks
 
 ### Zach - Janet Planet
+![Janet Planet](/assets/2024-12-26-movie-roundup/janet.png){: width="250"}
 
 I watched Janet Planet on a tiny airplane seatback monitor and despite that, this film struck me powerfully.
 
@@ -106,12 +117,15 @@ In reading reviews online, I was surprised to find that difficult-to-watch momen
 Many, if not most, coming-of-age stories feel distant and unrelatable to me, but this one hit the nail on the head with quite a bit of subtlety and nuance. Beautiful but miserable to watch.
 
 ### Courtney - Babes
+![Babes](/assets/2024-12-26-movie-roundup/babes.png){: width="250"}
 
 I was so excited to see this film knowing that the director was Pamela Adlon— my queen, from her series Better Things. I also have become *obsessed* with Ilana Glazer (which, side note: I did start watching Broad City right after watching this movie this past Spring), who also wrote and produced this film. So, with both of my icons together.. they created my favorite movie, not only of this year..but possibly of all time.
 
 I saw this movie in theater twice, and I already could go for watching it again. First was with Zach, and the second was with my good friend who had just given birth a month prior. It was her first moms night out, in fact. Which, if you don’t know the plot of the movie— Babes is about lifelong friends, one who at the start of the movie is giving birth to her second child, and the other who has been single and childless, becomes pregnant with her first. When I saw this movie the first time with Zach, we both were laughing hysterically.
 
 ## Most Positive Movie Watching Moment
+![Thelma](/assets/2024-12-26-movie-roundup/thelma.png){: width="250"}
+
 We saw Thelma with most of our family that lives in San Diego this summer. It's rare that we go out with all of them: Courtney's Grandma, Mom, Stepdad, and Zach's Dad.
 
 **Zach**
@@ -132,3 +146,9 @@ Overall, it felt like this movie came out at just the right time in our lives. H
 
 
 ## Full List of Rankings
+
+**Zach's Tier List**
+![Zach's Tier List](/assets/2024-12-26-movie-roundup/zach.png)
+
+**Courtney's Tier List**
+![Courtney's Tier List](/assets/2024-12-26-movie-roundup/courtney.png)
