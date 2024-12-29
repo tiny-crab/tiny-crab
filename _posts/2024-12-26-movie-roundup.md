@@ -6,7 +6,7 @@ date: 2024-12-26
 When we moved to San Diego, Courtney and I subscribed to AMC A-List. This allowed us to see up to 3 movies per week for "free". Since then, we've seen over 40 movies in theaters this year in lieu of having a rich social calendar and lots
 of friends to see frequently. At the bottom of this post, we have our individual tier lists for movies.
 
-Since there's so many in each list, we tallied each movie up and are going to highlight:
+Since there's so many in each list, we're just going to highlight:
 1. The best movies we saw
 2. The worst movies we saw
 3. Our guilty pleasures
@@ -61,29 +61,35 @@ This movie makes you frustrated at its lead characters for being passive, ignora
 
 Just straight humorous (in a bad way) of a thriller… no more notes.
 
-## Zach's Guilty Pleasure: Alien Romulus
+## Our guilty pleasures
+
+### Zach - Alien Romulus
 I watched the original Alien movie a day before seeing this one. I loved some of the elements from the original that were brought back and explored further - like the aliens' sensitivity to temperature, or its full lifecycle. The dread and atmosphere of the first act was so wonderful. The darkness and loneliness in space is palpable in those scenes. I really enjoyed David Jonsson's performance and the character he played.
 
 That said, there were some frustrating and cheap thrills, scares, and nostalgia-grabs throughout the movie. I don't need any more shitty CGI of dead actors, please. The last act was a tedious, predictable slog.
 
 I'm a sucker for the Alien franchise, so I really enjoyed this despite it not being my proudest recommendation.
 
-## Courtney's Guilty Pleasure: Small Things Like These
+### Courtney - Small Things Like These
 
 This was the first time I’ve been to a movie theater by myself. I went in pretty blind, I didn’t read the book, nor know what it was going to be about. I went for one reason only: Cillian Murphy. It was a good wintery watch, and Cillian did not disappoint. I had never heard of the Magdalene laundries in Ireland, which is a heartbreaking and horroring story of how “sinning” women were abused and confined in these Catholic institutions. Another movie where the last 10% of the movie really made it for me, but the movie overall didn’t wow me.
 
-## Zach's movie that made him wish he could throw rotten food at the director: Gladiator II
-We watched the original Gladiator a week before this came out. There's so many great moments in the original: A lengthy introduction to Maximus, his strengths and his weaknesses, a camraderie between Maximus and his soldiers that is reflected in his leadership in the pits. None of this exists in Gladiator 2.
+## The movies that made us angry
+
+### Zach - Gladiator II
+We watched the original Gladiator a week before this came out. There's so many great moments in the original: A lengthy introduction to Maximus, his strengths and his weaknesses, a camraderie between Maximus and his soldiers that is reflected in his leadership in the pits. None of this exists in Gladiator II.
 
 Hanno's introduction is compressed into brevity, basically into oblivion, and thus builds no sympathy from the audience. Hanno's motivations and key target flips dramatically during the midpoint of the movie, and is completely unearned. The political edge of this movie is dull from overuse. Pedro Pascal and Connie Nielsen are cardboard.
 
 That said, Joseph Quinn really puts his all into his role. I was excited with the stop-motion painted quality of the intro, but that's about the most artistically inspired component of this sequel. The first movie may not be a masterpiece, but it’s an excellent film now sullied by an incompetent sequel.
 
-## Courtney's movie that made her wish she could throw rotten food at the director: It Ends With Us
+### Courtney - It Ends With Us
 
 This movie made me mad, one because of how it was marketed. I had never read the book, so all I picked up for the marking was that it was a perfect ladies night out rom com. Which was the mode I went into seeing it: a fun ladies night out. And two, because there were no trigger warnings. I’m still shook of how that movie has no warning at the beginning or ANYWHERE in its cute little marketing campaign. In the same week, I saw Blink Twice and that movie from right at the beginning had not only a trigger warning, but call lines and websites for help. And Blink Twice was equally as graphic in abuse as It Ends With Us. Sure it had a happy ending.. but the whole thing just made me really anxious and worried for the many underaged girls watching that movie without a parent to debrief the topics in the movie with them afterward. Which.. excuse me.. HOW is that movie only PG-13?! No. Just no.
 
-## Zach's one pick he can't recommend enough: Janet Planet
+## Our individual top picks
+
+### Zach - Janet Planet
 
 I watched Janet Planet on a tiny airplane seatback monitor and despite that, this film struck me powerfully.
 
@@ -95,7 +101,7 @@ In reading reviews online, I was surprised to find that difficult-to-watch momen
 
 Many, if not most, coming-of-age stories feel distant and unrelatable to me, but this one hit the nail on the head with quite a bit of subtlety and nuance. Beautiful but miserable to watch.
 
-## Courtney's one pick she can't recommend enough: Babes
+### Courtney - Babes
 
 I was so excited to see this film knowing that the director was Pamela Adlon— my queen, from her series Better Things. I also have become *obsessed* with Ilana Glazer (which, side note: I did start watching Broad City right after watching this movie this past Spring), who also wrote and produced this film. So, with both of my icons together.. they created my favorite movie, not only of this year..but possibly of all time.
 
