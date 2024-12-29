@@ -140,7 +140,7 @@ It touches on themes of balancing helping others vs giving them independence, be
 
 This movie hit especially hard after saying goodbye for the last time to my Nana this year. The relationship between Thelma and her grandson spoke to some emotional conversations that I had, and also wished I had, with my own nana.
 
-Overall, it felt like this movie came out at just the right time in our lives. Had I seen it last summer, I don't know if it would have struck me in just the same way. I'm so grateful to have seen it and the themes have been deeply imprinted on my mind.
+Overall, it felt like this movie came out at just the right time in our lives. Had I seen it in 2023, I don't know if it would have struck me in just the same way. I'm so grateful to have seen it and the themes have been deeply imprinted on my mind.
 
 **Courtney**
 
