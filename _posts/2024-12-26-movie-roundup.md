@@ -123,6 +123,8 @@ I was so excited to see this film knowing that the director was Pamela Adlon— 
 
 I saw this movie in theater twice, and I already could go for watching it again. First was with Zach, and the second was with my good friend who had just given birth a month prior. It was her first moms night out, in fact. Which, if you don’t know the plot of the movie— Babes is about lifelong friends, one who at the start of the movie is giving birth to her second child, and the other who has been single and childless, becomes pregnant with her first. When I saw this movie the first time with Zach, we both were laughing hysterically.
 
+Ilana is magnetic, captivating, and enthralling. Their humor comes with so much ease, it’s addicting. That alone will make you not want to take your eyes off the screen.
+
 ## Most Positive Movie Watching Moment
 ![Thelma](/assets/2024-12-26-movie-roundup/thelma.png){: width="250"}
 
@@ -142,7 +144,11 @@ Overall, it felt like this movie came out at just the right time in our lives. H
 
 **Courtney**
 
+From the trailer of this movie I was prepared for this to fully be a comedy.. which it still was, but it left me with sooo much more. I didn’t look up anything else about the movie prior, and so I thought, “sure what a great fun family movie to go watch all together!” … till the first 10 minutes of the movie start and I realize… oh boy… the relationship this grandson and grandmother have is gunna open up the gates for Zach… having just lost his grandmother, annnnnd, we learn that the old woman has just become a widow… while my grandmother who also just became a widow was also sitting next to me… yikes. I started sweating for us all. But it was beautiful. We all were laughing, we all were crying, but all in joy of life and hope.
 
+Besides having a good relationship with my grandma for my whole life, I’ve become protective of her over the last year of her becoming a widow. I still think about this movie and how much to step-in to help my grandma, but also let her have her independence. The woman in the movie reminded me a lot of her— her spunk and stubbornness. I’m grateful to have watched it with her, and all of us together!
+
+I couldn’t stop recommending this movie to people, and they all have loved it and recommend it to everyone now too.. it’s just such a funny wholesome watch.
 
 
 ## Full List of Rankings
@@ -203,3 +209,49 @@ Inside a tier, the movies are not strictly ranked.
 
 **Courtney's Tier List**
 ![Courtney's Tier List](/assets/2024-12-26-movie-roundup/courtney.png)
+
+* S tier (couldn't stop recommending):
+  * Babes
+  * Thelma
+  * The Substance
+  * Anora
+  * Longlegs
+* A tier (excited me and stuck with me to keep thinking about):
+  * My Old Ass
+  * Robot Dreams
+  * Cuckoo
+  * Will and Harper
+  * Nosferatu
+  * Queer
+* B tier (thought provoking, compelling watches. wouldn't be mad paying for these movie tix):
+  * A Real Pain
+  * Saturday Night
+  * Civil War
+  * Close to You
+  * Didi
+  * Inside Out 2
+  * A Complete Unknown
+  * Janet Planet
+* C tier (good, but didn't wow):
+  * Beetlejuice Beetlejuice
+  * Blink Twice
+  * Challengers
+  * I Saw the TV Glow
+  * Wicked Little Letters
+  * Dune pt II
+  * Small Things Like These
+  * Kinds of Kindness
+* D tier (would watch on an airplane to kill time):
+  * Gladiator II
+  * Heretic
+  * Maxxxine
+  * A Quiet Place: Day One
+  * Fall Guy
+  * Y2K
+  * Wicked
+* F tier (big no. would never pay to watch..):
+  * Speak No Evil
+  * Trap
+  * It Ends With Us
+  * Twisters
+  * Mufasa
