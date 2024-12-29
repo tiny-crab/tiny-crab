@@ -150,5 +150,56 @@ Overall, it felt like this movie came out at just the right time in our lives. H
 **Zach's Tier List**
 ![Zach's Tier List](/assets/2024-12-26-movie-roundup/zach.png)
 
+Inside a tier, the movies are not strictly ranked.
+* S tier (i still think about these):
+  * Robot Dreams
+  * The Substance
+  * Inside Out 2
+  * Anora
+  * Janet Planet
+* A tier (wonderfully executed):
+  * Thelma
+  * A Real Pain
+  * Babes
+  * The Thing
+  * Will and Harper
+* B tier (compelling):
+  * Longlegs
+  * Didi
+  * Civil War
+  * Kinds of Kindness
+  * I Saw the TV Glow
+  * Cuckoo
+  * Nosferatu
+  * Queer
+* C tier (brought a lil somethin different):
+  * Alien Romulus
+  * Wicked Little Letters
+  * Challengers
+  * My Old Ass
+  * Dune pt II
+  * Deadpool and Wolverine
+  * Fall Guy
+  * The Bikeriders
+  * Furiosa
+  * A Complete Unknown
+* D tier (nothing new):
+  * Transformers One
+  * A Quiet Place: Day One
+  * Maxxxine
+  * Twisters
+  * Blink Twice
+  * Beetlejuice Beetlejuice
+  * Y2K
+  * Wicked
+  * Hit Man
+* F tier (only watch to rant about it with me):
+  * Heretic
+  * Gladiator II
+  * Speak No Evil
+  * Trap
+  * Mufasa
+  * Kingdom of the Planet of the Apes
+
 **Courtney's Tier List**
 ![Courtney's Tier List](/assets/2024-12-26-movie-roundup/courtney.png)
