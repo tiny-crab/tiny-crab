@@ -37,15 +37,9 @@ My favorite games are:
 * Baldur's Gate 3
 
 ## Music
-I generally skew toward mysterious, organic, ambient compositions.
+I have released two ambient piano albums: _[Str.](https://zach-crabtree.bandcamp.com/album/str)_ and _[Control · Take 2](https://zach-crabtree.bandcamp.com/album/control-take-2)_
 
-I've published two neo-classical albums:
-
-* Control - Take 2 (2020)
-  * [Spotify](https://open.spotify.com/album/6ScoLiJsAJmejo6OacTd1N?si=gdNj4puqQXuntaW3x2VTiQ)
-* Str. (2018)
-  * [Bandcamp](https://zach-crabtree.bandcamp.com/album/str?from=search&search_item_id=202519431&search_item_type=a&search_match_part=%3F&search_page_id=3825153928&search_page_no=1&search_rank=1&search_sig=95943f08169eb4bb43089a3ad3ee4d07)
-  * [Spotify](https://open.spotify.com/album/4IbEMsSSjFTdTlEXB3M39Y?si=ahO2VD-qSbSNk3F2K4vo-w)
+I also publish game soundtracks on my [Bandcamp](https://zach-crabtree.bandcamp.com/album/everspring-ost) and [Soundcloud](https://soundcloud.com/kkcchh)
 
 My favorite OSTs are:
 
