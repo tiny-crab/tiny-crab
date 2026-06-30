@@ -1,0 +1,5 @@
+It’s notable to me that so many of these objects are focused on learning something new (japanese, physics, guitar, drawing). I spent my four years of college constantly disappointed in myself because I wasn’t as skilled as I wished I was in so many things.
+
+In another one of these keepsake boxes, I instantly recognized a black journal. I made the mistake of opening it - it was my journal throughout the first couple of years of college, including a habit tracker and lots of journal entries processing where I was at and what I was feeling. I was very angry at myself, constantly, for not being better. Opening that journal brought up a flush of shame - why did I care so much? Why was I so intent on making myself feel bad? It feels like I took away from those years because I was so focused on moving forward and getting better and finally being the perfect person on the other side of all that growth. It feels like a waste and I wish I spent it differently.
+
+And yet I have great memories of classes, books, and professors that make me feel nostalgic for that time.

@@ -1,0 +1,3 @@
+- “I need to get out of the shower, it’s been 15 minutes”, “I’m hungry, I should eat”, “I need to go to the bathroom”
+- Vs
+- “The waters getting cold and this is unpleasant”, “Courtney’s home, so we should have lunch together”, “Courtney is home now, so I need to go to the bathroom”

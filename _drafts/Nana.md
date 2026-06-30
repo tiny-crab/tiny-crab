@@ -1,0 +1,1 @@
+Reset on expectations. Has she always seen me as a baby? Have I always seen her as an old woman?

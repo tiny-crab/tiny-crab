@@ -1,0 +1,3 @@
+- Reading Rick Rubin A Creative Act is a deep read. Every sentence and every paragraph is as indirect as can be. It feels like it demands you reflect and draw associations to your own life
+- What do I want to say?
+    - I want to draw attention to my own experience with push/pull, tension/release, dirtying/cleaning, experiencing/reflecting. The circular nature of work and creativity
